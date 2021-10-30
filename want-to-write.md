@@ -1,4 +1,3 @@
-* navigation
 * safe-args
 * flow,repeatOnLifecycle
 * epoxy,groupie
