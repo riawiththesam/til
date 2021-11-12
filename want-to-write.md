@@ -11,6 +11,8 @@
 * gitのcommitルール
 * UtilとCommon
 * enum,sealedとmap
+* registerForActivityResultの使い方
+* ViewOutlineProvider
 
 * youtubeとアウトロ
 * READMEに書くこと
