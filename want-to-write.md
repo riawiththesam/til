@@ -13,6 +13,8 @@
 * enum,sealedとmap
 * registerForActivityResultの使い方
 * ViewOutlineProvider
+* ThreeTenABP
+* DefaultLifecycleObserver
 
 * youtubeとアウトロ
 * READMEに書くこと
