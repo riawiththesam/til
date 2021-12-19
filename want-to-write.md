@@ -15,6 +15,9 @@
 * ViewOutlineProvider
 * ThreeTenABP
 * DefaultLifecycleObserver
+* value classとTypeConverter
+* Epoxyとレイアウト
+* onBackPressedDispatcher
 
 * youtubeとアウトロ
 * READMEに書くこと
