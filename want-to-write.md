@@ -22,6 +22,7 @@
 * firebase reauth
 * firebase uidの確認
 * AndroidのよくあるUIと落とし穴
+* BottomNavigation
 
 * youtubeとアウトロ
   * 動画の終わりがわかるようになってると、いいねしやすいよね
